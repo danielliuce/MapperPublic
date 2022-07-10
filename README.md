@@ -1,5 +1,15 @@
 # MapperPublic
 **_Source Code Available upon Demand_**
+**Authors**
+- Dante Crescenzi 
+https://github.com/dcrescenzi \
+https://www.linkedin.com/in/dante-crescenzi/ \
+dantecrescenzi@gmail.com
+- Hannah Ghassabeh 
+https://github.com/HannahGhassabyte \
+https://www.linkedin.com/in/hannah-ghassabeh-92200b204/ \
+hghassabeh@gmail.com
+- And Myself
 
 ## Video Demo of the Different Features
 
