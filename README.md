@@ -1,6 +1,6 @@
 # MapperPublic
 **_Source Code Available upon Demand_**\
-**Authors**
+**Authors:**
 - Dante Crescenzi \
 **Contact Info:** \
 https://github.com/dcrescenzi \
