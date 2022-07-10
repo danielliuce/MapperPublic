@@ -9,6 +9,9 @@ https://user-images.githubusercontent.com/70533174/178127992-e482862c-1718-450b-
 **NOTE:** Due to GitHub README files not allowing videos over 10 Megabytes, I had to compress the video. For the full quality video you can see it here:\
 https://www.youtube.com/watch?v=905sTUS9Kw8&ab_channel=DanielLiu \
 
+## What I learned from this project 
+###fill in latee
+
 ## What I would do differently if I were to restart this project.
 ###Fill in later....
 
