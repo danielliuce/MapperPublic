@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=5GGsZbrTWwo&ab_channel=DanielLiu \
 
 ## What I learned from this project 
 There were many things that I tookaway from this project. I have included the main points into a list below:
-* Proper git hygeine. This included frequent commits, meaningful commit messages, working on a branch and merging, frequent pulling, and communication with teammates
+* Proper git hygiene. This included frequent commits, meaningful commit messages, working on a branch and merging, frequent pulling, and communication with teammates
 * The organization and design of software. An example of this would be the organization of different data types into their respective structs, the merging of code that performed different things.
 * Efficiency of certain data structures over others. For example, the usage of a hashmap for large amounts of unordered data and quick access/insertion.
 * Optimization & efficiency of code. This included preprocessing what can be preprocessed into data structures, clever implementations of algorithms, heuristics
