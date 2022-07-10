@@ -10,7 +10,7 @@ dantecrescenzi@gmail.com
 **Contact Info:**\
 https://github.com/HannahGhassabyte \
 https://www.linkedin.com/in/hannah-ghassabeh-92200b204/ \
-hghassabeh@gmail.com
+hannah.ghassabeh@mail.utoronto.ca
 - And Myself
 
 ## Video Demo of the Different Features
