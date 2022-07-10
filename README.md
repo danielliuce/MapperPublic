@@ -2,10 +2,12 @@
 **_Source Code Available upon Demand_**
 **Authors**
 - Dante Crescenzi 
+**Contact Info:** \
 https://github.com/dcrescenzi \
 https://www.linkedin.com/in/dante-crescenzi/ \
 dantecrescenzi@gmail.com
-- Hannah Ghassabeh 
+- Hannah Ghassabeh \
+**Contact Info:**\
 https://github.com/HannahGhassabyte \
 https://www.linkedin.com/in/hannah-ghassabeh-92200b204/ \
 hghassabeh@gmail.com
