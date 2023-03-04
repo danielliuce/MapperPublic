@@ -11,7 +11,12 @@ dantecrescenzi@gmail.com
 https://github.com/HannahGhassabyte \
 https://www.linkedin.com/in/hannah-ghassabeh-92200b204/ \
 hannah.ghassabeh@mail.utoronto.ca
-- And Myself
+- And Myself \ 
+- Daniel Liu \
+**Contact Info:**\
+https://github.com/danielliucs \
+https://www.linkedin.com/in/danielliliu/ \
+daniell.liu@mail.utoronto.ca
 
 ## Video Demo of the Different Features
 
