@@ -44,7 +44,7 @@ There were many things that I tookaway from this project. I have included the ma
 
 ## What I would do differently if I were to restart this project.
 Reflecting back on the project, there are certain aspects in the project that I would have redesigned. These things are listed below:
-* This project was developed entirely in C++. I would have liked to leverage the object oriented programming aspects of C++ more than I did. The source code utilized structs in a way that was similar to structs seen in C. Looking back, leveraging the usage of methods in classes along with inheiritance to reuse methods would have made the source code much more refined and cleaner. 
+* This project was developed entirely in C++. I would have liked to leverage the object oriented programming aspects of C++ more than I did. The source code utilized structs in a way that was similar to structs seen in C. ~~Looking back, leveraging the usage of methods in classes along with inheiritance to reuse methods would have made the source code much more refined and cleaner.~~ I take this back, inheritance would've made the code so much slower. 
 * Multi-thread more aspects of the code where it was possible. 
 
 ## What I would refine in the existing code if I had more time
@@ -55,6 +55,7 @@ This is more so a reflection on what I would have liked to further refine on the
 
 ## What Extra Features would I have included if I had more time
 This section is dedicated to what extra features I would have included if I had more time.
+* Saved hotspots. Being able to click "Home" and it'll be able to select a saved interesction of "Home" would've been cool. A very simple flat database with a txt file could handle this. 
 * Live traffic data. The current map's pathfinding assumes that there is no traffic. I would have included live traffic data from external libraries and included this calucation into the shortest possible path in our map
 * Pathfinding for addresses. Currently our map only pathfinds between intersections. If I had more time I would have liked to look into the parsing of data that included addresses and develop the option to pathfind between addresses as well.
 * Interactive GPS directions. Currently our map utilized directions that pop up on the screen but there is no audio that goes with it. An implementation of audio that reads out the directions and tracks your location similar to that of a GPS would have been an amaizng additional feature.
