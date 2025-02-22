@@ -17,6 +17,9 @@ https://github.com/danielliucs \
 https://www.linkedin.com/in/danielliliu/ \
 daniell.liu@mail.utoronto.ca
 
+Final Mark:
+94%
+
 ## Video Demo of the Different Features
 
 https://user-images.githubusercontent.com/70533174/178164228-366ce57b-8687-4dfe-a4c4-df10a1aaebea.mp4
